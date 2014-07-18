@@ -106,3 +106,49 @@ https://twitter.com/mattn_jp/status/484299394582192129
 
 https://twitter.com/mattn_jp/status/487757709517656064
 > Q. 伊集院さんはvimというテキストエディタを使ってTeXで文章を作成することはありませんか？ 伊集院｢当然使います。neosnippet必須です。｣ ｢貴様!!まさか!?｣ Shougo｢そのまさかだ！フハハハハハ…｣
+
+https://twitter.com/kaoriya/status/474024576830025729
+> A「Swiftの話やめてVimの話しようぜ」
+> B「uniteが…」
+> C「neobundleが…」
+> D「neocomplcacheが…」
+> A「きさままさか?!」
+> B&C&D「フハハハ!そのまさかだ!(ry」)
+
+https://twitter.com/haya14busa/status/479996644348284928
+> ──何歳？
+> 19です
+>
+> ──女子大生かな？
+> そうです
+>
+> ──Vim活は初めて？
+> はい
+>
+> ──緊張してる？
+> 少しだけ(笑)
+>
+> ──初めて:NeoBundleInstallしたのはいつ？
+> ...高３の冬です
+>
+> ──何を？ビムシェル？
+> 貴様まさか!?
+>
+> ──そのまさかだ！フハハハ...
+
+https://twitter.com/EzoeRyou/status/410283105379831808
+> ここに vim があるじゃろ  
+>   ( ＾ω＾)  
+>   ⊃ vim ⊂
+>
+> これをこうして  
+> ( ＾ω＾)  
+>  ≡⊃⊂≡
+>
+> こう  
+>  ( ＾ω＾)  
+> ⊃ 暗黒美.. ⊂
+>
+> まさか・・・  
+> (　゜ д゜　)  
+>  ≡⊃⊂≡＜フハハハ、そのまさかだ
